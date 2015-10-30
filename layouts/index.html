@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+  <main role="main">
+
+    <h1 class="list-title">Latest Posts</h1>
+    <ul class="list-entry">
+{{ range first 24 .Data.Pages }}
+{{ .Render "summary"}}
+{{ end }}
+    </ul>
+
+    <div class="view-more-posts">
+      <div class="more"><a href="/archives/">View more posts</a></div>
+      <small>{{ len .Data.Pages}} posts since '11</small>
+    </div>
+  </main>
+
+{{ partial "footer.html" . }}
