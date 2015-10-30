@@ -4,7 +4,7 @@
 
     <h1 class="list-title">Latest Posts</h1>
     <ul class="list-entry">
-{{ range first 24 .Data.Pages }}
+{{ range first 8 .Data.Pages }}
 {{ .Render "summary"}}
 {{ end }}
     </ul>
