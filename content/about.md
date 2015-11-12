@@ -19,9 +19,11 @@ slug = "about"
 
 <ul>
 <li><a href="" target="_blank">滴滴出行</a><br>
-<small>2015.04 - 2015.11 Devops Project:Odin/CMDB/VMs</small></li>
+<small>2015.04 - 2015.11 [Devops] 
+Projects:Odin/CMDB/VMs</small></li>
 <li><a href="" target="_blank">凤凰网</a><br>
-<small>2013.03 - 2015.04 OP Project:Sosara/ssh-tool</small></li>
+<small>2013.03 - 2015.04 [OP] 
+Projects:Sosara/ssh-tool</small></li>
 </ul>
 
 ## Personal Projects
