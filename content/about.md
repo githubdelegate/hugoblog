@@ -20,10 +20,10 @@ slug = "about"
 <ul>
 <li><a href="" target="_blank">滴滴出行</a><br>
 <small>2015.04 - 2015.11 [Devops] <br>
-Projects:Odin/CMDB/VMs</small></li>
+Projects: Odin/CMDB/VMs</small></li>
 <li><a href="" target="_blank">凤凰网</a><br>
 <small>2013.03 - 2015.04 [OP]<br> 
-Projects:Sosara/ssh-tool</small></li>
+Projects: Sosara/ssh-tool</small></li>
 </ul>
 
 ## Personal Projects
